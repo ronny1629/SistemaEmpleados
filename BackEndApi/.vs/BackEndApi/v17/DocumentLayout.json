@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\dtos\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\dtos\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\dtos\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\dtos\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\services\\implementacion\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\services\\implementacion\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|c:\\users\\user\\desktop\\angularprojects\\projects\\web-api\\backendapi\\backendapi\\services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22748E2E-2615-4F4A-8E93-4C03887C9008}|BackEndApi\\BackEndApi.csproj|solutionrelative:backendapi\\services\\implementacion\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\appsettings.json",
+              "RelativeToolTip": "BackEndApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T14:36:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\DepartamentoDTO.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\DTOs\\DepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\DepartamentoDTO.cs",
+              "RelativeToolTip": "BackEndApi\\DTOs\\DepartamentoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:34:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Services\\Implementacion\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Services\\Implementacion\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Services\\Implementacion\\IEmpleadoService.cs",
+              "RelativeToolTip": "BackEndApi\\Services\\Implementacion\\IEmpleadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:55:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Services\\Implementacion\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Services\\Implementacion\\EmpleadoService.cs",
+              "RelativeToolTip": "BackEndApi\\Services\\Implementacion\\EmpleadoService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:24:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "BackEndApi\\DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:51:36.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\DTOs\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\Models\\Empleado.cs",
+              "RelativeToolTip": "BackEndApi\\DTOs\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:18:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Program.cs",
+              "RelativeToolTip": "BackEndApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:15:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\Utilidades\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BackEndApi\\Utilidades\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:22:30.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "BackEndApi\\DTOs\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AngularProjects\\Projects\\web-api\\BackEndApi\\BackEndApi\\DTOs\\Models\\Departamento.cs",
+              "RelativeToolTip": "BackEndApi\\DTOs\\Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:01:54.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
